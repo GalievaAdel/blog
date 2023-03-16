@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Добро пожаловать! Это пост по моей прошедшей учебной недели.
+subtitle: Здравствуйте 👋 В данном посте вы сможете увидеть как проходила моя прошлая учебная неделя в университете. 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Здравствуйте 👋 В данном посте вы сможете увидеть как проходила моя прошлая учебная неделя в университете. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-03-16T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-03-16T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -46,11 +46,11 @@ import libr
 print('hello')
 ```
 
-## Overview
+## Обзор
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. На прошлой неделе я выполняла лабораторную работу №5 по операционным системам. В данной лабораторной работе я изучила анализ файловой структуры UNIX и команды для работы с файлами и каталогами. 
+2. 10 марта я выступала на празднике прихода Весны в клубе вместе со своей группой по английскому языку.Мы танцевали под песню "L.O.V.E.". За данное выступление нам дали по 20 баллов.
+3. На прошлой неделе был праздник - 8 марта. Наши одногруппники подарили нам прекрасный подарок. 
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
 
